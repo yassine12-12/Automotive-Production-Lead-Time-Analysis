@@ -1,0 +1,459 @@
+
+--- Data\Einzelteil_T23.csv ---
+"";"X1";"ID_T23.x";"Produktionsdatum.x";"Herstellernummer.x";"Werksnummer.x";"Fehlerhaft.x";"Fehlerhaft_Datum.x";"Fehlerhaft_Fahrleistung.x";"ID_T23.y";"Produktionsdatum.y";"Herstellernummer.y";"Werks
+Shape: (1908208, 16)
+
+--- Data\Einzelteil\Einzelteil_T01.txt ---
+"X1" | | "ID_T01.x" | | "Produktionsdatum.x" | | "Herstellernummer.x" | | "Werksnummer.x" | | "Fehlerhaft.x" | | "Fehlerhaft_Datum.x" | | "Fehlerhaft_Fahrleistung.x" | | "ID_T01.y" | | "Produktionsdat
+
+
+--- Data\Einzelteil\Einzelteil_T02.txt ---
+"X1"  "ID_T02.x"  "Produktionsdatum.x"  "Herstellernummer.x"  "Werksnummer.x"  "Fehlerhaft.x"  "Fehlerhaft_Datum.x"  "Fehlerhaft_Fahrleistung.x"  "ID_T02.y"  "Produktionsdatum.y"  "Herstellernummer.y"
+
+
+--- Data\Einzelteil\Einzelteil_T03.txt ---
+"X1"|"ID_T03"|"Herstellernummer"|"Werksnummer"|"Fehlerhaft"|"Fehlerhaft_Datum"|"Fehlerhaft_Fahrleistung"|"Produktionsdatum_Origin_01011970"|"origin""1"|1|"3-202-2023-249"|"202"|"2023"|0|NA|0|14190|"0
+
+
+--- Data\Einzelteil\Einzelteil_T04.csv ---
+"";"X1";"ID_T04";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"4-204-2043-113";"204";"2043";0;NA;0;14190
+Shape: (1192630, 10)
+
+--- Data\Einzelteil\Einzelteil_T05.csv ---
+"","X1","ID_T05.x","Produktionsdatum.x","Herstellernummer.x","Werksnummer.x","Fehlerhaft.x","Fehlerhaft_Datum.x","Fehlerhaft_Fahrleistung.x","ID_T05.y","Produktionsdatum.y","Herstellernummer.y","Werks
+Shape: (1192630, 16)
+
+--- Data\Einzelteil\Einzelteil_T06.csv ---
+"","X1","ID_T06","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"6-204-2044-60","201","2044",1,2009-04-11,
+Shape: (1192630, 10)
+
+--- Data\Einzelteil\Einzelteil_T07.txt ---
+"X1"	"ID_T07"	"Herstellernummer"	"Werksnummer"	"Fehlerhaft"	"Fehlerhaft_Datum"	"Fehlerhaft_Fahrleistung"	"Produktionsdatum_Origin_01011970"	"origin""1"	1	"7-201-2012-30"	"201"	"2011"	0	NA	0	14190	"01-
+
+
+--- Data\Einzelteil\Einzelteil_T08.csv ---
+"","X1","ID_T08","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"8-204-2041-38","204","2041",0,NA,0,14190,
+Shape: (409422, 10)
+
+--- Data\Einzelteil\Einzelteil_T09.txt ---
+"X1"\"ID_T09.x"\"Produktionsdatum.x"\"Herstellernummer.x"\"Werksnummer.x"\"Fehlerhaft.x"\"Fehlerhaft_Datum.x"\"Fehlerhaft_Fahrleistung.x"\"ID_T09.y"\"Produktionsdatum.y"\"Herstellernummer.y"\"Werksnum
+
+
+--- Data\Einzelteil\Einzelteil_T10.csv ---
+"";"X1";"ID_T10";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"10-204-2042-41";"204";"2043";0;NA;0;14190
+Shape: (409422, 10)
+
+--- Data\Einzelteil\Einzelteil_T11.txt ---
+"X1"	"ID_T11"	"Herstellernummer"	"Werksnummer"	"Fehlerhaft"	"Fehlerhaft_Datum"	"Fehlerhaft_Fahrleistung"	"Produktionsdatum_Origin_01011970"	"origin""1"	1	"11-215-2154-102"	"215"	"2154"	0	NA	0	14190	"
+
+
+--- Data\Einzelteil\Einzelteil_T12.csv ---
+"";"X1";"ID_T12.x";"Produktionsdatum.x";"Herstellernummer.x";"Werksnummer.x";"Fehlerhaft.x";"Fehlerhaft_Datum.x";"Fehlerhaft_Fahrleistung.x";"ID_T12.y";"Produktionsdatum.y";"Herstellernummer.y";"Werks
+Shape: (1908208, 23)
+
+--- Data\Einzelteil\Einzelteil_T13.csv ---
+"";"X1";"ID_T13";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"13-209-2092-86";"209";"2092";0;NA;0;14190
+Shape: (1908208, 10)
+
+--- Data\Einzelteil\Einzelteil_T14.csv ---
+"";"X1";"ID_T14";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"14-214-2142-11";"214";"2142";0;NA;0;14190
+Shape: (477052, 10)
+
+--- Data\Einzelteil\Einzelteil_T15.csv ---
+"";"X1";"ID_T15.x";"Produktionsdatum.x";"Herstellernummer.x";"Werksnummer.x";"Fehlerhaft.x";"Fehlerhaft_Datum.x";"Fehlerhaft_Fahrleistung.x";"ID_T15.y";"Produktionsdatum.y";"Herstellernummer.y";"Werks
+Shape: (477052, 16)
+
+--- Data\Einzelteil\Einzelteil_T16.txt ---
+"X1" | | "ID_T16.x" | | "Produktionsdatum.x" | | "Herstellernummer.x" | | "Werksnummer.x" | | "Fehlerhaft.x" | | "Fehlerhaft_Datum.x" | | "Fehlerhaft_Fahrleistung.x" | | "ID_T16.y" | | "Produktionsdat
+
+
+--- Data\Einzelteil\Einzelteil_T17.csv ---
+"";"X1";"ID_T17.x";"Produktionsdatum.x";"Herstellernummer.x";"Werksnummer.x";"Fehlerhaft.x";"Fehlerhaft_Datum.x";"Fehlerhaft_Fahrleistung.x";"ID_T17.y";"Produktionsdatum.y";"Herstellernummer.y";"Werks
+Shape: (655075, 23)
+
+--- Data\Einzelteil\Einzelteil_T18.csv ---
+"";"X1";"ID_T18";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"18-209-2091-62";"209";"2092";0;NA;0;14190
+Shape: (655075, 10)
+
+--- Data\Einzelteil\Einzelteil_T19.csv ---
+"","X1","ID_T19","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"19-214-2143-9","214","2143",0,NA,0,14190,
+Shape: (163769, 10)
+
+--- Data\Einzelteil\Einzelteil_T20.txt ---
+"X1" | | "ID_T20" | | "Herstellernummer" | | "Werksnummer" | | "Fehlerhaft" | | "Fehlerhaft_Datum" | | "Fehlerhaft_Fahrleistung" | | "Produktionsdatum_Origin_01011970" | | "origin" "1" | | 1 | | "20-2
+
+
+--- Data\Einzelteil\Einzelteil_T21.csv ---
+"";"X1";"ID_T21";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"21-208-2081-970";"208";"2081";1;2010-01-0
+Shape: (3204104, 10)
+
+--- Data\Einzelteil\Einzelteil_T22.txt ---
+"X1"	"ID_T22.x"	"Produktionsdatum.x"	"Herstellernummer.x"	"Werksnummer.x"	"Fehlerhaft.x"	"Fehlerhaft_Datum.x"	"Fehlerhaft_Fahrleistung.x"	"ID_T22.y"	"Produktionsdatum.y"	"Herstellernummer.y"	"Werksnum
+
+
+--- Data\Einzelteil\Einzelteil_T23.csv ---
+"";"X1";"ID_T23.x";"Produktionsdatum.x";"Herstellernummer.x";"Werksnummer.x";"Fehlerhaft.x";"Fehlerhaft_Datum.x";"Fehlerhaft_Fahrleistung.x";"ID_T23.y";"Produktionsdatum.y";"Herstellernummer.y";"Werks
+Shape: (1908208, 16)
+
+--- Data\Einzelteil\Einzelteil_T24.txt ---
+"X1"  "ID_T24.x"  "Produktionsdatum.x"  "Herstellernummer.x"  "Werksnummer.x"  "Fehlerhaft.x"  "Fehlerhaft_Datum.x"  "Fehlerhaft_Fahrleistung.x"  "ID_T24.y"  "Produktionsdatum.y"  "Herstellernummer.y"
+
+
+--- Data\Einzelteil\Einzelteil_T25.csv ---
+"","X1","ID_T25","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"25-206-2061-16","206","2061",0,NA,0,14190
+Shape: (477052, 10)
+
+--- Data\Einzelteil\Einzelteil_T26.csv ---
+"";"X1";"ID_T26";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"26-207-2071-53";"207";"2071";0;NA;0;14190
+Shape: (655075, 10)
+
+--- Data\Einzelteil\Einzelteil_T27.txt ---
+"X1" | | "ID_T27" | | "Herstellernummer" | | "Werksnummer" | | "Fehlerhaft" | | "Fehlerhaft_Datum" | | "Fehlerhaft_Fahrleistung" | | "Produktionsdatum_Origin_01011970" | | "origin""1" | | 1 | | "27-2
+
+
+--- Data\Einzelteil\Einzelteil_T30.csv ---
+"","X1","ID_T30.x","Produktionsdatum.x","Herstellernummer.x","Werksnummer.x","Fehlerhaft.x","Fehlerhaft_Datum.x","Fehlerhaft_Fahrleistung.x","ID_T30.y","Produktionsdatum.y","Herstellernummer.y","Werks
+Shape: (2385260, 23)
+
+--- Data\Einzelteil\Einzelteil_T31.txt ---
+"X1"  "ID_T31"  "Herstellernummer"  "Werksnummer"  "Fehlerhaft"  "Fehlerhaft_Datum"  "Fehlerhaft_Fahrleistung"  "Produktionsdatum_Origin_01011970"  "origin""1"  1  "31-217-2172-53"  "217"  "2172"  0
+
+
+--- Data\Einzelteil\Einzelteil_T32.csv ---
+"";"X1";"ID_T32.x";"Produktionsdatum.x";"Herstellernummer.x";"Werksnummer.x";"Fehlerhaft.x";"Fehlerhaft_Datum.x";"Fehlerhaft_Fahrleistung.x";"ID_T32.y";"Produktionsdatum.y";"Herstellernummer.y";"Werks
+Shape: (1977164, 16)
+
+--- Data\Einzelteil\Einzelteil_T33.csv ---
+"","X1","ID_T33","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"33-217-2172-32","217","2172",0,NA,0,14190
+Shape: (408096, 10)
+
+--- Data\Einzelteil\Einzelteil_T34.txt ---
+"X1" | | "ID_T34" | | "Herstellernummer" | | "Werksnummer" | | "Fehlerhaft" | | "Fehlerhaft_Datum" | | "Fehlerhaft_Fahrleistung" | | "Produktionsdatum_Origin_01011970" | | "origin""1" | | 1 | | "34-21
+
+
+--- Data\Einzelteil\Einzelteil_T35.txt ---
+"X1"\"ID_T35.x"\"Produktionsdatum.x"\"Herstellernummer.x"\"Werksnummer.x"\"Fehlerhaft.x"\"Fehlerhaft_Datum.x"\"Fehlerhaft_Fahrleistung.x"\"ID_T35.y"\"Produktionsdatum.y"\"Herstellernummer.y"\"Werksnum
+
+
+--- Data\Einzelteil\Einzelteil_T36.txt ---
+"X1"  "ID_T36"  "Herstellernummer"  "Werksnummer"  "Fehlerhaft"  "Fehlerhaft_Datum"  "Fehlerhaft_Fahrleistung"  "Produktionsdatum_Origin_01011970"  "origin" "1"  1  "36-219-2193-38"  "219"  "2193"  0
+
+
+--- Data\Einzelteil\Einzelteil_T37.csv ---
+"","X1","ID_T37","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"37-218-2183-22","218","2183",0,NA,0,14190
+Shape: (512354, 10)
+
+--- Data\Einzelteil\Einzelteil_T38.csv ---
+"","X1","ID_T38.x","Produktionsdatum.x","Herstellernummer.x","Werksnummer.x","Fehlerhaft.x","Fehlerhaft_Datum.x","Fehlerhaft_Fahrleistung.x","ID_T38.y","Produktionsdatum.y","Herstellernummer.y","Werks
+Shape: (306490, 16)
+
+--- Data\Einzelteil\Einzelteil_T39.txt ---
+"X1"\"ID_T39.x"\"Produktionsdatum.x"\"Herstellernummer.x"\"Werksnummer.x"\"Fehlerhaft.x"\"Fehlerhaft_Datum.x"\"Fehlerhaft_Fahrleistung.x"\"ID_T39.y"\"Produktionsdatum.y"\"Herstellernummer.y"\"Werksnum
+
+
+--- Data\Einzelteil\Einzelteil_T40.csv ---
+"";"X1";"ID_T40";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"40-219-2193-52";"219";"2193";0;NA;0;14190
+Shape: (306490, 10)
+
+--- Data\Fahrzeug\Bestandteile_Fahrzeuge_OEM1_Typ11.csv ---
+"";"ID_Karosserie";"ID_Schaltung";"ID_Sitze";"ID_Motor";"ID_Fahrzeug"
+"1";"K4-112-1121-3";"K3SG1-105-1051-32";"K2LE1-109-1091-2";"K1BE1-101-1011-7";"11-1-11-1"
+"2";"K4-112-1121-4";"K3SG1-105-1051-141"
+Shape: (1977164, 6)
+
+--- Data\Fahrzeug\Bestandteile_Fahrzeuge_OEM1_Typ12.csv ---
+"";"ID_Karosserie";"ID_Schaltung";"ID_Sitze";"ID_Motor";"ID_Fahrzeug"
+"1";"K5-112-1122-1";"K3SG1-105-1051-4";"K2ST1-109-1092-1";"K1BE1-101-1011-90";"12-1-12-1"
+"2";"K5-112-1122-11";"K3AG1-105-1051-9";
+Shape: (408096, 6)
+
+--- Data\Fahrzeug\Bestandteile_Fahrzeuge_OEM2_Typ21.csv ---
+"";"ID_Karosserie";"ID_Schaltung";"ID_Sitze";"ID_Motor";"ID_Fahrzeug"
+"1";"K6-113-1132-1";"K3AG2-108-1082-10";"K2ST2-109-1092-44";"K1BE2-101-1011-1";"21-2-21-1"
+"2";"K6-113-1132-2";"K3AG2-108-1082-6";
+Shape: (512354, 6)
+
+--- Data\Fahrzeug\Bestandteile_Fahrzeuge_OEM2_Typ22.csv ---
+"X1";"ID_Karosserie";"ID_Schaltung";"ID_Sitze";"ID_Motor";"ID_Fahrzeug"
+1;"K7-114-1142-1";"K3AG2-108-1082-9";"K2ST2-109-1092-2";"K1DI2-103-1031-2";"22-2-21-1"
+2;"K7-114-1142-2";"K3AG2-108-1082-11";"K2
+Shape: (306490, 6)
+
+--- Data\Fahrzeug\Fahrzeuge_OEM1_Typ11.csv ---
+"","X1","ID_Fahrzeug","Produktionsdatum","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung"
+"1",1,"11-1-11-1",2008-11-18,"1",11,0,NA,0
+"2",2,"11-1-11-2",2008-11
+Shape: (1977164, 9)
+
+--- Data\Fahrzeug\Fahrzeuge_OEM1_Typ11_Fehleranalyse.csv ---
+"","X","X1","ID_Fahrzeug","Herstellernummer","Werksnummer","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","days","fuel","engine"
+"9",9,9,"11-1-11-9",1,11,2010-03-16,34824.3195588253,1493.1507609887,4.00
+Shape: (198069, 11)
+
+--- Data\Fahrzeug\Fahrzeuge_OEM1_Typ12.csv ---
+"";"X1";"ID_Fahrzeug";"Produktionsdatum";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung"
+"1";1;"12-1-12-1";2008-11-19;"1";12;0;NA;0
+"2";2;"12-1-12-2";2008-11
+Shape: (408096, 9)
+
+--- Data\Fahrzeug\Fahrzeuge_OEM2_Typ21.csv ---
+"","X1","ID_Fahrzeug","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"21-2-21-1",2,21,0,NA,0,14202,"01-01-
+Shape: (512354, 10)
+
+--- Data\Fahrzeug\Fahrzeuge_OEM2_Typ22.csv ---
+"";"X1";"ID_Fahrzeug";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"22-2-21-1";2;21;1;2010-03-18;18841;1
+Shape: (306490, 10)
+
+--- Data\Geodaten\Geodaten_Gemeinden_v1.2_2017-08-22_TrR.csv ---
+;X;Postleitzahl;Gemeinde;Laengengrad;Breitengrad
+1;1;1067;DRESDEN;13,736883;51,051697
+2;2;1445;RADEBEUL;13,659342;51,105975
+3;3;1454;RADEBERG;13,921969;51,116404
+4;4;1454;WACHAU;13,904681;51,160116
+5;
+Shape: (7775, 6)
+
+--- Data\Geodaten\OEM_Werke_2017-07-04_TrR.csv ---
+PLZ ;ORT;Werk;Breitengrad;Lngengrad
+90491;NUERNBERG;O11;49.46699;11.107353
+53225;BONN;O12;50.742015;7.120073
+33607;BIELEFELD;O13;52.022568;8.540961
+37073;GOETTINGEN;O21;51.535703;9.932804
+93051;REGENS
+[Could not determine shape: 'utf-8' codec can't decode byte 0x84 in position 27: invalid start byte]
+
+--- Data\Geodaten\Tier1_Werke_2017-07-11_v1.2_TrR.csv ---
+PLZ ;ORT;Werk;Breitengrad;Lngengrad
+81247;MUENCHEN;1011;48.169568;11.470707
+04179;LEIPZIG;1021;51.333708;12.311921
+01157;DRESDEN;1031;51.056901;13.666837
+10365;BERLIN;1041;52.521622;13.488954
+97422;SC
+[Could not determine shape: 'utf-8' codec can't decode byte 0x84 in position 27: invalid start byte]
+
+--- Data\Geodaten\Tier2_Werke_2017-07-11_v1.2_TrR.csv ---
+PLZ;ORT ;Werk;Breitengrad;Lngengrad;;;;;;;;;;;;;
+90762;FUERTH;2011;49.477859;10.988665;;;;;;;;;;;;;
+96047;BAMBERG;2012;49.86667;10.86667;;;;;;;;;;;;;
+86150;AUGSBURG;2021;48.369099;10.893711;;;;;;;;;;;
+[Could not determine shape: 'utf-8' codec can't decode byte 0x84 in position 27: invalid start byte]
+
+--- Data\Komponente\Bestandteile_Komponente_K1BE1.csv ---
+"";"ID_T1";"ID_T2";"ID_T3";"ID_T4";"ID_K1BE1"
+"1";"1-201-2011-45";"2-201-2011-161";"3-202-2023-14";"4-202-2023-20";"K1BE1-101-1011-1"
+"2";"1-201-2011-429";"2-201-2011-239";"3-202-2023-16";"4-202-2023-
+Shape: (1192630, 6)
+
+--- Data\Komponente\Bestandteile_Komponente_K1BE2.csv ---
+"";"ID_T1";"ID_T2";"ID_T7";"ID_T8";"ID_K1BE2"
+"1";"1-202-2021-339";"2-202-2022-171";"7-203-2031-9";"8-204-2041-12";"K1BE2-101-1011-1"
+"2";"1-201-2011-57";"2-201-2011-260";"7-201-2012-30";"8-204-2041-3
+Shape: (409422, 6)
+
+--- Data\Komponente\Bestandteile_Komponente_K1DI1.csv ---
+"";"ID_T1";"ID_T2";"ID_T5";"ID_T6";"ID_K1DI1"
+"1";"1-204-2044-27";"2-201-2011-144";"5-202-2012-89";"6-203-2032-5";"K1DI1-101-1041-1"
+"2";"1-202-2021-32";"2-202-2022-577";"5-202-2012-155";"6-203-2032-7
+Shape: (1192630, 6)
+
+--- Data\Komponente\Bestandteile_Komponente_K1DI2.csv ---
+"";"ID_T1";"ID_T2";"ID_T9";"ID_T10";"ID_K1DI2"
+"1";"1-204-2044-183";"2-202-2022-551";"9-204-2043-1";"10-204-2042-3";"K1DI2-103-1031-1"
+"2";"1-201-2011-246";"2-202-2022-738";"9-204-2043-35";"10-204-204
+Shape: (409422, 6)
+
+--- Data\Komponente\Bestandteile_Komponente_K2LE1.csv ---
+"";"ID_T11";"ID_T14";"ID_T15";"ID_K2LE1"
+"1";"11-215-2154-70";"14-214-2142-8";"15-209-2093-12";"K2LE1-109-1091-1"
+"2";"11-215-2154-102";"14-214-2142-11";"15-209-2093-20";"K2LE1-109-1091-2"
+"3";"11-212
+Shape: (477052, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K2LE2.csv ---
+;ID_T16;ID_T19;ID_T20;ID_K2LE2
+1;16-213-2132-44;19-215-2154-4;20-209-2091-23;K2LE2-111-1111-1
+2;16-215-2152-68;19-214-2143-3;20-211-2111-6;K2LE2-111-1111-2
+3;16-212-2121-9;19-214-2143-6;20-211-2111-10
+Shape: (163769, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K2ST1.csv ---
+"X1";"X";"ID_T11";"ID_T12";"ID_T13";"ID_K2ST1"
+1;1;"11-213-2131-128";"12-212-2121-15";"13-209-2091-25";"K2ST1-109-1092-1"
+2;2;"11-213-2131-134";"12-212-2121-28";"13-209-2092-7";"K2ST1-109-1092-2"
+3;3;
+Shape: (1908208, 6)
+
+--- Data\Komponente\Bestandteile_Komponente_K2ST2.csv ---
+"";"ID_T16";"ID_T17";"ID_T18";"ID_K2ST2"
+"1";"16-215-2152-11";"17-214-2141-3";"18-209-2091-61";"K2ST2-109-1092-1"
+"2";"16-212-2121-7";"17-214-2141-20";"18-209-2091-62";"K2ST2-109-1092-2"
+"3";"16-215-2
+Shape: (655075, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K3AG1.csv ---
+"X1";"ID_T21";"ID_T24";"ID_T25";"ID_K3AG1"
+1;"21-205-2051-52";"24-207-2072-43";"25-206-2061-1";"K3AG1-105-1051-1"
+2;"21-208-2081-78";"24-207-2072-12";"25-206-2061-2";"K3AG1-105-1051-2"
+3;"21-205-2051-
+Shape: (477052, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K3AG2.csv ---
+"X1";"ID_T21";"ID_T24";"ID_T27";"ID_K3AG2"
+1;"21-208-2081-525";"24-207-2071-36";"27-208-2082-1";"K3AG2-108-1082-1"
+2;"21-208-2081-108";"24-208-2082-34";"27-208-2082-2";"K3AG2-108-1082-2"
+3;"21-205-205
+Shape: (163769, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K3SG1.csv ---
+"X1";"ID_T21";"ID_T22";"ID_T23";"ID_K3SG1"
+1;"21-208-2081-357";"22-205-2051-438";"23-205-2051-33";"K3SG1-105-1051-1"
+2;"21-205-2051-218";"22-206-2061-1";"23-205-2051-133";"K3SG1-105-1051-2"
+3;"21-207-
+Shape: (1908208, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K3SG2.csv ---
+"X1";"ID_T21";"ID_T22";"ID_T26";"ID_K3SG2"
+1;"21-208-2081-452";"22-206-2061-105";"26-206-2062-1";"K3SG2-105-1051-1"
+2;"21-208-2081-530";"22-205-2051-315";"26-206-2062-2";"K3SG2-105-1051-2"
+3;"21-208-2
+Shape: (655075, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K4.csv ---
+"X1";"ID_T30";"ID_T31";"ID_T32";"ID_K4"
+1;"30-216-2161-242";"31-217-2172-302";"32-216-2162-21";"K4-112-1121-1"
+2;"30-216-2161-87";"31-216-2161-242";"32-216-2162-48";"K4-112-1121-2"
+3;"30-217-2171-214"
+Shape: (1977164, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K5.csv ---
+X1;ID_T30;ID_T31;ID_T33;ID_K5
+1;30-217-2171-67;31-216-2161-15;33-217-2172-32;K5-112-1122-1
+2;30-216-2162-3;31-216-2161-67;33-217-2172-82;K5-112-1122-2
+3;30-216-2162-10;31-216-2161-125;33-216-2162-8;K5
+Shape: (408096, 5)
+
+--- Data\Komponente\Bestandteile_Komponente_K6.csv ---
+X1;ID_T34;ID_T35;ID_T36;ID_T37;ID_K6
+1;34-217-2173-51;35-217-2173-9;36-219-2193-38;37-218-2183-22;K6-113-1132-1
+2;34-217-2173-45;35-217-2173-64;36-219-2193-64;37-218-2183-52;K6-113-1132-2
+3;34-218-218
+Shape: (512354, 6)
+
+--- Data\Komponente\Bestandteile_Komponente_K7.csv ---
+X1;ID_T34;ID_T35;ID_T38;ID_T39;ID_T40;ID_K7
+1;34-217-2173-2;35-218-2181-58;38-218-2182-8;39-218-2183-19;40-219-2193-52;K7-114-1142-1
+2;34-217-2173-24;35-217-2173-92;38-218-2182-31;39-219-2192-1;40-219
+Shape: (306490, 7)
+
+--- Data\Komponente\Komponente_K1BE1.csv ---
+"","X1","ID_Motor","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"K1BE1-101-1011-7","101","1011",0,NA,0,1
+Shape: (1192630, 10)
+
+--- Data\Komponente\Komponente_K1BE2.csv ---
+"";"X1";"ID_Motor";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"K1BE2-101-1011-2";"101";"1011";0;NA;0;1
+Shape: (409422, 10)
+
+--- Data\Komponente\Komponente_K1DI1.csv ---
+"","X1","ID_Motor.x","Produktionsdatum.x","Herstellernummer.x","Werksnummer.x","Fehlerhaft.x","Fehlerhaft_Datum.x","Fehlerhaft_Fahrleistung.x","ID_Motor.y","Produktionsdatum.y","Herstellernummer.y","W
+Shape: (1192630, 23)
+
+--- Data\Komponente\Komponente_K1DI2.txt ---
+"X1"\"ID_Motor"\"Herstellernummer"\"Werksnummer"\"Fehlerhaft"\"Fehlerhaft_Datum"\"Fehlerhaft_Fahrleistung"\"Produktionsdatum_Origin_01011970"\"origin"	"1"\1\"K1DI2-103-1031-2"\"103"\"1031"\0\NA\0\1419
+
+
+--- Data\Komponente\Komponente_K2LE1.txt ---
+"X1"II"ID_Sitze.x"II"Produktionsdatum.x"II"Herstellernummer.x"II"Werksnummer.x"II"Fehlerhaft.x"II"Fehlerhaft_Datum.x"II"Fehlerhaft_Fahrleistung.x"II"ID_Sitze.y"II"Produktionsdatum.y"II"Herstellernumme
+
+
+--- Data\Komponente\Komponente_K2LE2.txt ---
+"X1"\"ID_Sitze"\"Herstellernummer"\"Werksnummer"\"Fehlerhaft"\"Fehlerhaft_Datum"\"Fehlerhaft_Fahrleistung"\"Produktionsdatum_Origin_01011970"\"origin"
+"1"\1\"K2LE2-111-1111-1"\"111"\"1111"\0\NA\0\1419
+
+
+--- Data\Komponente\Komponente_K2ST1.txt ---
+"X1"|"ID_Sitze"|"Produktionsdatum"|"Herstellernummer"|"Werksnummer"|"Fehlerhaft"|"Fehlerhaft_Datum"|"Fehlerhaft_Fahrleistung"
+"1"|1|"K2ST1-109-1092-5"|2008-11-12|"109"|1092|1|2010-09-04|47634
+"2"|2|"K
+
+
+--- Data\Komponente\Komponente_K2ST2.csv ---
+"";"X1";"ID_Sitze";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"K2ST2-109-1092-2";"109";"1092";0;NA;0;1
+Shape: (655075, 10)
+
+--- Data\Komponente\Komponente_K3AG1.csv ---
+"","X1","ID_Schaltung.x","Produktionsdatum.x","Herstellernummer.x","Werksnummer.x","Fehlerhaft.x","Fehlerhaft_Datum.x","Fehlerhaft_Fahrleistung.x","ID_Schaltung.y","Produktionsdatum.y","Herstellernumm
+Shape: (477052, 23)
+
+--- Data\Komponente\Komponente_K3AG2.txt ---
+"X1"\"ID_Schaltung"\"Herstellernummer"\"Werksnummer"\"Fehlerhaft"\"Fehlerhaft_Datum"\"Fehlerhaft_Fahrleistung"\"Produktionsdatum_Origin_01011970"\"origin"
+"1"\1\"K3AG2-108-1082-9"\"108"\"1082"\0\NA\0\
+
+
+--- Data\Komponente\Komponente_K3SG1.csv ---
+"","X1","ID_Schaltung.x","Produktionsdatum.x","Herstellernummer.x","Werksnummer.x","Fehlerhaft.x","Fehlerhaft_Datum.x","Fehlerhaft_Fahrleistung.x","ID_Schaltung.y","Produktionsdatum.y","Herstellernumm
+Shape: (1908208, 16)
+
+--- Data\Komponente\Komponente_K3SG2.csv ---
+"","X1","ID_Schaltung","Herstellernummer","Werksnummer","Fehlerhaft","Fehlerhaft_Datum","Fehlerhaft_Fahrleistung","Produktionsdatum_Origin_01011970","origin"
+"1",1,"K3SG2-108-1081-53","108","1081",0,N
+Shape: (655075, 10)
+
+--- Data\Komponente\Komponente_K4.csv ---
+"";"X1";"ID_Karosserie.x";"Produktionsdatum.x";"Herstellernummer.x";"Werksnummer.x";"Fehlerhaft.x";"Fehlerhaft_Datum.x";"Fehlerhaft_Fahrleistung.x";"ID_Karosserie.y";"Produktionsdatum.y";"Herstellernu
+Shape: (1977164, 16)
+
+--- Data\Komponente\Komponente_K5.csv ---
+"","X1","ID_Karosserie.x","Produktionsdatum.x","Herstellernummer.x","Werksnummer.x","Fehlerhaft.x","Fehlerhaft_Datum.x","Fehlerhaft_Fahrleistung.x","ID_Karosserie.y","Produktionsdatum.y","Herstellernu
+Shape: (408096, 16)
+
+--- Data\Komponente\Komponente_K6.csv ---
+"";"X1";"ID_Karosserie";"Herstellernummer";"Werksnummer";"Fehlerhaft";"Fehlerhaft_Datum";"Fehlerhaft_Fahrleistung";"Produktionsdatum_Origin_01011970";"origin"
+"1";1;"K6-113-1132-1";"113";"1132";0;NA;0
+Shape: (512354, 10)
+
+--- Data\Komponente\Komponente_K7.txt ---
+"X1"	"ID_Karosserie"	"Herstellernummer"	"Werksnummer"	"Fehlerhaft"	"Fehlerhaft_Datum"	"Fehlerhaft_Fahrleistung"	"Produktionsdatum_Origin_01011970"	"origin"
+"1"	1	"K7-114-1142-1"	"114"	"1142"	0	NA	0	14
+
+
+--- Data\Logistikverzug\Komponente_K7.csv ---
+"";"IDNummer";"Produktionsdatum";"Herstellernummer";"Werksnummer";"Fehlerhaft"
+"1";"K7-114-1142-1";2008-11-12;114;1142;0
+"2";"K7-114-1142-2";2008-11-12;114;1142;0
+"3";"K7-114-1142-3";2008-11-13;114;11
+Shape: (306490, 6)
+
+--- Data\Logistikverzug\Logistikverzug_K7.csv ---
+"","IDNummer","Wareneingang","Herstellernummer","Werksnummer","Fehlerhaft"
+"1","K7-113-1132-153160",2016-11-22,112,1132,0
+"2","K7-113-1132-153109",2016-11-20,112,1132,0
+"3","K7-113-1132-153195",2016-1
+Shape: (306490, 6)
+
+--- Data\Zulassungen\Zulassungen_alle_Fahrzeuge.csv ---
+"";"IDNummer";"Gemeinden";"Zulassung"
+"408097";"11-1-11-1";"DRESDEN";2009-01-01
+"408098";"11-1-11-2";"DRESDEN";2009-01-01
+"1";"12-1-12-1";"LEIPZIG";2009-01-01
+"2";"12-1-12-2";"LEIPZIG";2009-01-01
+"3";
+Shape: (3204104, 4)
