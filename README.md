@@ -95,10 +95,10 @@ python --version
 ### Installation
 ```bash
 # Install required dependencies
-pip install pandas plotly dash numpy scikit-learn matplotlib scipy jupyter
-
-# Or install from requirements if available
 pip install -r requirements.txt
+
+# Or install manually
+pip install pandas plotly dash numpy scikit-learn matplotlib scipy jupyter
 ```
 
 ### Running the Dashboard

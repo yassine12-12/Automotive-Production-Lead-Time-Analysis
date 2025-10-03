@@ -1,0 +1,35 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Interactive Visualization and Dashboard
+plotly>=5.10.0
+dash>=2.10.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Statistical Analysis
+scipy>=1.9.0
+
+# Traditional Plotting
+matplotlib>=3.5.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.15.0
+
+# Additional Python Standard Libraries (usually included with Python)
+# These are listed for completeness but typically don't need separate installation:
+# base64 - Standard library
+# os - Standard library
+# datetime - Standard library
+# threading - Standard library
+# webbrowser - Standard library
+# pathlib - Standard library (Python 3.4+)
+
+# Development and Code Quality (Optional)
+# black>=22.0.0
+# flake8>=5.0.0
+# pytest>=7.0.0
