@@ -1,5 +1,14 @@
 # Automotive Production Lead Time Analysis Dashboard
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![Dash](https://img.shields.io/badge/Dash-Interactive_Dashboard-brightgreen.svg)](https://dash.plotly.com)
+[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-blue.svg)](https://plotly.com)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-orange.svg)](https://pandas.pydata.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine_Learning-green.svg)](https://scikit-learn.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-lightblue.svg)](https://numpy.org)
+[![SciPy](https://img.shields.io/badge/SciPy-Statistical_Analysis-yellow.svg)](https://scipy.org)
+
 ## Project Overview
 
 This project analyzes production lead times for a large automotive company manufacturing vehicles under two brands: **OEM1** and **OEM2**. The goal is to identify vehicle types with extended production cycles and optimize the supply chain from parts suppliers to final vehicle assembly.
@@ -29,6 +38,14 @@ This project analyzes production lead times for a large automotive company manuf
 - **Component Lead Time** = Latest Part Date - Earliest Part Date
 - **Total Lead Time** = Sum of all component lead times
 
+## Dashboard Screenshots
+
+### Main Dashboard Interface
+![Dashboard Overview](Figures/app.png)
+
+### Interactive Analytics Panel
+![Analytics Panel](Figures/app2.png)
+
 ## Analysis Results
 
 ### Key Findings:
@@ -55,16 +72,52 @@ This project analyzes production lead times for a large automotive company manuf
 3. **Factory Performance**: Improve underperforming plants based on lead time metrics
 4. **Supply Chain Coordination**: Better synchronization between suppliers based on seasonal patterns
 
+## Technologies Used
+
+- **Python 3.8+**: Core programming language
+- **Dash**: Interactive web application framework for dashboard
+- **Plotly**: Interactive data visualization library
+- **Pandas**: Data manipulation and analysis
+- **NumPy**: Numerical computing and array operations
+- **Scikit-learn**: Machine learning algorithms for classification
+- **Matplotlib**: Statistical plotting and visualization
+- **SciPy**: Scientific computing and statistical analysis
+- **Jupyter Notebooks**: Interactive data analysis and exploration
+
 ## Quick Start
 
+### Prerequisites
 ```bash
-# Install dependencies
-pip install pandas plotly dash numpy
+# Ensure Python 3.8+ is installed
+python --version
+```
 
-# Run dashboard
+### Installation
+```bash
+# Install required dependencies
+pip install pandas plotly dash numpy scikit-learn matplotlib scipy jupyter
+
+# Or install from requirements if available
+pip install -r requirements.txt
+```
+
+### Running the Dashboard
+```bash
+# Navigate to project directory
+cd "Automotive Production Lead Time Analysis"
+
+# Run the interactive dashboard
 python Case_Study_App_Group_40.py
 
-# Access at http://127.0.0.1:8050/
+# Access the dashboard at: http://127.0.0.1:8050/
+```
+
+### Running Jupyter Analysis
+```bash
+# Start Jupyter Notebook
+jupyter notebook
+
+# Open and run: General_Tasks_Group_40.ipynb
 ```
 
 **Requirements**: `Final_dataset_group_40.csv` must be in project root directory.
